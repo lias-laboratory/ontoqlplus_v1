@@ -65,7 +65,7 @@ The reference language can be change in the _options -> language menu_:
 
 ## Software licence agreement
 
-Details the license agreement of OntoQLPlus V1: [LICENCE](LICENCE)
+Details the license agreement of OntoQLPlus V1: [LICENSE](LICENSE)
 
 ## Code analysis
 
