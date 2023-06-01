@@ -63,7 +63,7 @@ The reference language can be change in the _options -> language menu_:
 
 ![](screenshots/language.jpg)
 
-## Software licence agreement
+## Software license agreement
 
 Details the license agreement of OntoQLPlus V1: [LICENSE](LICENSE)
 
